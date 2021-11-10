@@ -25,7 +25,7 @@
 
 <p align="center"> 
     <a href="https://vighnesh.site" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
+<!--     <img src="images/masterPortfolioThemes.png"></img> -->
   </a>
 </p>
 
