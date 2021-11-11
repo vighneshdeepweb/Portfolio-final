@@ -337,22 +337,22 @@ const competitiveSites = {
       },
       profileLink: "https://www.codechef.com/users/vighnesh12",
     },
-    {
-      siteName: "HackerOne",
-      iconifyClassname: "simple-icons:hackerone",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "https://hackerone.com/flick3r",
-    },
     // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
+    //   siteName: "HackerOne",
+    //   iconifyClassname: "simple-icons:hackerone",
     //   style: {
-    //     color: "#323754",
+    //     color: "#1F8ACB",
     //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    //   profileLink: "https://hackerone.com/flick3r",
     // },
+    {
+      siteName: "TryHackMe",
+      iconifyClassname: "simple-icons:tryhackme",
+      style: {
+        color: "#323754",
+      },
+      profileLink: "https://tryhackme.com/p/Flick3r",
+    },
     // {
     //   siteName: "Kaggle",
     //   iconifyClassname: "simple-icons:kaggle",
