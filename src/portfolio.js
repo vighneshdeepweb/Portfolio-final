@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Vighnesh Deep Sharan Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://www.vighnesh.site/",
   },
 };
 
@@ -131,7 +131,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using React-Redux",
-        "⚡ Learning and Implementing advance web development using MERN STACk",
+        "⚡ Learning and Implementing advance web development using MERN STACK",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
