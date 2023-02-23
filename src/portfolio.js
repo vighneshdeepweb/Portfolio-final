@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Vighnesh Deep Sharan Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://vighnesh.vercel.app/",
   },
 };
 
@@ -330,12 +330,12 @@ const competitiveSites = {
       profileLink: "https://bugcrowd.com/F4_FLICK3R",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
+      siteName: "Qwiklabs",
+      iconifyClassname: "simple-icons:qwiklabs",
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/vighnesh12",
+      profileLink: "https://www.cloudskillsboost.google/public_profiles/c1e79422-bee1-49ef-8d5a-b62d06a62d5c",
     },
     // {
     //   siteName: "HackerOne",
@@ -371,7 +371,7 @@ const degrees = {
       subtitle: "Bachelor in Computer Applications",
       logo_path: "dypatil.png",
       alt_name: "D.Y.Patil ACS",
-      duration: "2019 - Present",
+      duration: "2019 - 2022",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -500,9 +500,27 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked as a Cloud-Security Intern in an renowned organisation, And also as a Full Stack Web Developer. I am also an active Open-Source Contributor. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Currently working as Application Developer at Cognizant. I have also worked as a Cloud-Security Intern at VTF, And also as a Full Stack Web Developer. I am also an active Open-Source Contributor. I love organising events and that is why I am also involved with many opensource communities as a contributor.",
   header_image_path: "experience.svg",
   sections: [
+    {
+      title: "Work",
+      experiences: [
+        {
+          title: "Application Developer (ADM)",
+          company: "Cognizant Technology Solutions",
+          company_url: "https://www.cognizant.com/in/en",
+          logo_path: "cognizant.png",
+          duration: "Sept 2022 - Present",
+          location: "Pune, Maharashtra",
+          description:
+            "Currently serving as Application developer at MNC (CTS) that is Cognizant Technology Solutions in the domain ADM-MLEU.",
+          color: "#0879bf",
+        },
+
+
+      ],
+    },
     {
       title: "Internships",
       experiences: [
@@ -541,6 +559,7 @@ const experience = {
         // },
       ],
     },
+    
     // {
     //   title: "Internships",
     //   experiences: [
@@ -666,9 +685,9 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Near Sai Mandir, Dr. D.Y Patil Arts, Science and Commerce College, Pimpri,Pune-411018, Maharashtra",
+      "Venky PG-1, Near TCS Office, Hinjewadi Phase-3, Pune-411057, Maharashtra",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/g1gnYt2us2LS1fUT8",
+    location_map_link: "https://goo.gl/maps/qtPuB9DkFSZYbQhg6",
   },
   phoneSection: {
     title: "Phone Number",
