@@ -403,12 +403,12 @@ const certifications = {
       color_code: "#00000099",
     },
     {
-      title: "Introduction to Artificial Intelligence",
-      subtitle: "- TCS iON",
-      logo_path: "tcs.png",
+      title: "Microsoft Certified- Azure Fundamentals",
+      subtitle: "- AZ 900",
+      logo_path: "az900.svg",
       certificate_link:
-        "https://drive.google.com/file/d/1gTbcbS3anwamhud1Bm-ITQ7D84_Y4uoC/",
-      alt_name: "TCS iON",
+        "https://learn.microsoft.com/api/credentials/share/en-us/vighnesh/68CAD89F00CFCCF6?sharingId=E42DF3DA2411B2F0",
+      alt_name: "Microsoft",
       color_code: "#0C9D5899",
     },
     {
@@ -421,12 +421,12 @@ const certifications = {
       color_code: "#1F70C199",
     },
     {
-      title: "Be A White Hat HAcker and Pen Tester Online ",
-      subtitle: "- Eduonix Learning Solutions Pvt Ltd",
-      logo_path: "eduonix.jpg",
+      title: "Microsoft Certified- Azure Data Fundamentals",
+      subtitle: "- DP 900",
+      logo_path: "dp900.svg",
       certificate_link:
-        "https://www.eduonix.com/certificate/36f27c2e6b",
-      alt_name: "Eduonix Learning",
+        "https://learn.microsoft.com/api/credentials/share/en-us/vighnesh/885437F69FCF2F6D?sharingId=E42DF3DA2411B2F0",
+      alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
     {
@@ -448,12 +448,12 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Certified Ethical Hacking (CEH)",
-      subtitle: "- Udemy",
-      logo_path: "udemy.png",
+      title: "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      subtitle: "- SC 900",
+      logo_path: "sc900.svg",
       certificate_link:
-        "http://ude.my/UC-abf62547-7a41-4b06-bae6-5b61ab6cf859",
-      alt_name: "CEH",
+        "https://learn.microsoft.com/api/credentials/share/en-us/vighnesh/1FD3E857C11EABA3?sharingId=E42DF3DA2411B2F0",
+      alt_name: "Microsoft",
       color_code: "#00000099",
     },
     {
@@ -500,21 +500,21 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "Currently working as Application Developer at Cognizant. I have also worked as a Cloud-Security Intern at VTF, And also as a Full Stack Web Developer. I am also an active Open-Source Contributor. I love organising events and that is why I am also involved with many opensource communities as a contributor.",
+    "Currently working as Data Analyst at Cognizant. I have also worked as a Cloud-Security Intern at VTF, And also as a Full Stack Web Developer. I am also an active Open-Source Contributor. I love organising events and that is why I am also involved with many opensource communities as a contributor.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Application Developer (ADM)",
+          title: "Data Analyst",
           company: "Cognizant Technology Solutions",
           company_url: "https://www.cognizant.com/in/en",
           logo_path: "cognizant.png",
           duration: "Sept 2022 - Present",
           location: "Pune, Maharashtra",
           description:
-            "Currently serving as Application developer at MNC (CTS) that is Cognizant Technology Solutions in the domain ADM-MLEU.",
+            "Currently working in NA (North American) Electric Utility domain. Have knowledge on AMI (Advance Metering Infrastructure). Primary role is to look after asset synchronization in MDMS (Meter - Data Management System). Supporting end - to - end asset synchronization and troubleshooting. Have knowledge of AMI, HES, MDMS, WFM multiple AMI systems.",
           color: "#0879bf",
         },
 
