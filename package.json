@@ -4,7 +4,6 @@
   "homepage": "https://vighneshdeepweb.github.io",
   "version": "0.1.0",
   "scripts": {
-    "v": "node -v",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
